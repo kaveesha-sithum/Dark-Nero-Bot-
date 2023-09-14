@@ -6,9 +6,9 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 
 ```
 {
-  "SESSION_ID": "ID-Here",
-  "OWNER_NUMBER": "91xxxxxxxxxx",
-  "OWNER_NAME": "EREN JEAGER",
+  "SESSION_ID": "ID",
+  "OWNER_NUMBER": "94774071805",
+  "OWNER_NAME": "kaveesha",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
   "PACK_INFO": "Sam;Pandey",
