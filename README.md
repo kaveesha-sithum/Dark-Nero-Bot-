@@ -37,7 +37,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 |---|---|---|
 | **[kaveesha Sithum](https://github.com/kaveesha-sithum)**</br>Founder & Developer</br> | **[Pahan Rashmika]([https://github.com/sasmeee](http://tiktok.com/@hirutalks))**</br> graphic designer | **[hansamal]()**</br>Co-Admin/Developer |
 | <a href="https://github.com/DarkWinzo"><img src="https://avatars.githubusercontent.com/u/93755320?v=4" width=80 height=80></a> | <a href="sandesh"><img src="https://telegra.ph/file/2017006dcf33a29310dc7.jpg" width=80 height=80></a> |  
-| **[Dark Winzo](https://github.com/DarkWinzo)**</br>Supporter | **[Sandesh]()**</br>Bug Tester  
+| **[Dark Winzo](https://github.com/DarkWinzo)**</br>Supporter | **[Sandesh]()**</br>Bug Tester | <a href="https://github.com/DarkWinzo"><img src="https://avatars.githubusercontent.com/u/107739528?v=4" width=80 height=80></a> | <br>**[Dark Winzo] (https://github.com/DarkWinzo)**</br>
 
 
 
