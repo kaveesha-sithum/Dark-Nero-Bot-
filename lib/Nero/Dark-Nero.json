@@ -1,0 +1,55 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "ᴋᴀᴠᴇᴇꜱʜᴀ",
+  "LANGUAGE": "English",
+  "LANGCODE": "en",
+  "STRINGS": {
+      "updater": {
+          "UPDATE": "*Your bot is already on latest version♻️*",
+          "NEW_UPDATE": "*There is a new update available for the bot!*\n\n*Changes:*\n",
+          "UPDATED_LOCAL": "*Successfully Updated!✅*"
+      },
+      "global": {
+          "greet2": "Konnichiwa!(💚ω💚)",
+          "botName": "🄳𝐀𝐑🄺-🄽𝐄𝐑🄾 🅅9",
+          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝-𝐵𝑜𝑡𝑡𝑜",
+          "pic1": "https://i.ibb.co/zrvByTb/IMG-20230609-WA0083.jpg",
+          "pic2": "https://i.ibb.co/zrvByTb/IMG-20230609-WA0083.jpg",
+          "pic3": "https://i.ibb.co/zrvByTb/IMG-20230609-WA0083.jpg",
+          "pic4": "https://i.ibb.co/zrvByTb/IMG-20230609-WA0083.jpg",
+          "pic5": "https://i.ibb.co/zrvByTb/IMG-20230609-WA0083.jpg",
+          "pic6": "https://i.ibb.co/zrvByTb/IMG-20230609-WA0083.jpg",
+          "pic7": "https://i.ibb.co/zrvByTb/IMG-20230609-WA0083.jpg",
+           "greet" : "Welcome To Dark Nero Command List",
+          "dotbody" : "Hey,There I Am Online Now♥️.",
+          "promote": "Admin Role Given To My Sexy Script",
+          "pmallow": "*Hii,This is Zero-Two*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+          "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _*ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴅᴀʀᴋ ɴᴇʀᴏ ᴠ9 ᴍᴅ*_",
+          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n *ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴅᴀʀᴋ ɴᴇʀᴏ ᴠ9 ᴍᴅ*",
+          "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *ɢᴇɴᴇʀᴛᴇᴅ ʙʏ ᴅᴀʀᴋ ɴᴇʀᴏ ᴠ9 ᴍᴅ*", 
+          "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _*ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴅᴀʀᴋ ɴᴇʀᴏ ᴠ9 ᴍᴅ*_",
+          "demote": "Uhh,Admin Role Taken back",
+          "antlink": "Link Detected.\n*Good Bye Sir*",
+          "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝒁𝒆𝒓𝒐 𝑻𝒘𝒐*",
+          "mention": " Please mention any user Darling",
+          "title": "DARK-NERO-𝘔𝘋-V9",
+          "footer": "DARK-NERO-𝘔D-V9",
+          "by": "Made by: *CitelVoid*",
+          "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+          "success": "Done ✓",
+          "dot": "Darling📍, Do you mean *-help?*",
+          "couple_male": "*I dont want to die alone,I want a female yaar*",
+          "couple_female": "*I dont want to die alone,I want a male yaar*",
+          "admin": "ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ɪꜱ ᴏɴʟʏ ꜰᴏʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ 🧑‍💻!",
+          "botAdmin": "ɪꜰ ʏᴏᴜ ʀᴇᴀʟʟʏ ᴡᴀɴᴛ ᴍᴇ ᴛᴏ ᴅᴏ ɢɪᴠᴇ ᴛʜᴀᴛ ᴍᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟᴇɢᴇ 🧑‍💻❗",
+          "owner": "ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ɪꜱ ᴏɴʟʏ ᴍʏ ᴏᴡɴᴇʀ 🧑‍💻",
+          "group": "ᴛʜɪꜱ ꜰᴇᴀᴛᴜᴛᴇ ɪꜱ ᴏɴʟʏ ꜰᴏʀ ɢʀᴏᴜᴘ 🧑‍💻",
+          "private": "ᴛʜɪꜱ ꜰᴇᴀᴛᴜʀᴇ ɪɴ ᴏɴʟʏ ꜰᴏʀ ᴛʜᴇ ᴍʏ ᴏᴡɴᴇʀ 🧑‍💻",
+          "bot": "ᴛʜɪꜱ ꜰᴇᴀᴛᴜʀᴇ ɪɴ ᴏɴʟʏ ꜰᴏʀ ᴛʜᴇ ʙᴏᴛ ɴᴜᴍʙᴇʀ 🧑‍💻",
+          "wait": "ᴘʀᴏᴄᴇꜱꜱɪɴɢ ʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ✅"
+      },
+      "error": {
+          "text": "*Uhh,Got an Error*"
+      }
+  }
+      }
