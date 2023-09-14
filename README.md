@@ -11,11 +11,12 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
   "OWNER_NAME": "kaveesha",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
-  "PACK_INFO": "Sam;Pandey",
+  "PACK_INFO": "Dark;Nero",
   "PREFIX": ".",
   "AUTO_REACTION": false,
   "READ_MESSAGE" : true,
-   "THEME" : 'Dark-Nero'
+   "THEME" : 'Dark-Nero',
+  "ALWAYS_ONLINE": 'true'
 
    
 }
