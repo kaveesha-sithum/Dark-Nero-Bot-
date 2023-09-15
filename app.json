@@ -5,6 +5,7 @@
   "keywords": ["nodejs", "bot", "whatsapp bot", "theme bot","multi device","baileys","kaveesha"],
   "success_url": "/",
   "stack": "container",
+	
 "env": {
   "OWNER_NAME": {
   "description": "owner name",
