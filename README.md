@@ -1,4 +1,4 @@
-  <a href="https://github.com/diggilly"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kaveesha;Don't+Tech+Cilent.js+file" alt="AnyaReadme">
+  <a href="https://github.com/diggilly"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=user;welcome+Dark+nero+repo" alt="AnyaReadme">
 </p>
 
 
@@ -10,7 +10,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
   "OWNER_NUMBER": "94774071805",
   "OWNER_NAME": "kaveesha",
   "OPENAI_API_KEY": "null",
-  "MONGODB_URI": "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority",
+  "MONGODB_URI": "Mongoob_url kye",
   "PACK_INFO": "Dark;Nero",
   "PREFIX": ".",
   "AUTO_REACTION": false,
