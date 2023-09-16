@@ -9,5 +9,29 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
-      '#/updates/0/package-ecosystem' value "" did not match one of the following values: npm, bundler, composer, maven, mix, cargo, gradle, nuget, gomod, docker, elm, gitsubmodule, github-actions, pip, terraform, pub, swift
-      #/updates/0/schedule' contains additional properties ["The property '#/updates/0/package-ecosystem' value \"\" did not match one of the following values"] outside of the schema when none are allowed
+   version: 2
+updates:
+  - package-ecosystem: "" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+      version: 2
+updates:
+
+  # Maintain dependencies for GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  # Maintain dependencies for npm
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  # Maintain dependencies for Composer
+  - package-ecosystem: "composer"
+    directory: "/"
+    schedule:
+      interval: "weekly"
