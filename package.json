@@ -9,6 +9,7 @@
                        "@adiwajshing/keyed-db": "^0.2.4",
                        "awesome-phonenumber": "^3.3.0",
                        "anime-character-random": "latest",
+                        "@kaveesha-sithum/tiktok-dl":"2.0.0",
                        "axios": "^0.24.0",
                        "cheerio": "^1.0.0-rc.10",
                        "crypto-js":"latest",
