@@ -79,7 +79,7 @@
                        "assets": "lib/assets"
                     },
                   "devDependencies": {
-                       "pino": "^7.0.5"
+                       "pino": "^8.15.1"
                     },
                  "repository": {
                  "type": "git",
