@@ -7,7 +7,7 @@
                        "dependencies": {
                        "@whiskeysockets/baileys": "git+https://github.com/kaveesha-sithum/kaveesha-baileys.git",
                        "@adiwajshing/keyed-db": "^0.2.4",
-                       "awesome-phonenumber": "^5.10.0",
+                       "awesome-phonenumber": "^3.3.0",
                        "anime-character-random": "latest",
                         "@kaveesha-sithum/tiktok-dl":"2.0.0",
                        "axios": "^0.24.0",
@@ -25,7 +25,7 @@
                        "koyeb-api-client":"latest",
                        "dotenv": "^16.0.0",
                        "discord-xp": "^1.1.16",
-                       "mongoose": "^7.5.2",
+                       "mongoose": "^6.2.1",
                        "mumaker": "^2.0.0",
                        "google-it": "^1.6.2",
                        "google-image-sr": "^1.0.0",
@@ -43,7 +43,7 @@
                        "openai": "3.0.0",
                        "pm2": "^5.2.0",
                        "node-cron": "^3.0.0",
-                       "node-fetch": "^3.3.2",
+                       "node-fetch": "^2.6.1",
                        "node-webpmux": "^3.1.0",
                        "google-tts-api": "^2.0.2",
                        "path": "^0.12.7",
@@ -53,7 +53,7 @@
                        "translatte": "^3.0.1",
                        "util": "^0.12.4",           
                        "secktor-pack": "latest",
-                       "youtubedl-core": "git+ssh://git@github.com:khlevon/node-ytdl-core.git#v4.11.5",
+                       "youtubedl-core": "git+ssh://git@github.com:khlevon/node-ytdl-core.git#v4.11.4-patch.2",
                        "googlebard": "latest",
                        "@blackamda/song_video_dl": "latest",
                        "vihangayt-fbdl": "latest",
@@ -79,7 +79,7 @@
                        "assets": "lib/assets"
                     },
                   "devDependencies": {
-                       "pino": "^8.15.1"
+                       "pino": "^7.0.5"
                     },
                  "repository": {
                  "type": "git",
