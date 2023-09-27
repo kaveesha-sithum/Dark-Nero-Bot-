@@ -1,15 +1,15 @@
 {
-  "name": "Dark-Nero-bot ✅",
+  "name": "Dark-ChAnU MD✅",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://i.ibb.co/zrvByTb/IMG-20230609-WA0083.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "theme bot","multi device","baileys","kaveesha"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "theme bot","multi device","baileys","ChAnU"],
   "success_url": "/",
   "stack": "container",
 	
 "env": {
   "OWNER_NAME": {
   "description": "owner name",
-      "value": "Kaveesha sithum ✅"
+      "value": "ChAnU MD ✅"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -67,7 +67,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94774071805"
+       "value": "94741191182"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID  "
@@ -83,7 +83,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. ",
-     "value": "Dark-Nero"
+     "value": "ChAnU MD"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -96,7 +96,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "KAVEESHA: DARK-NERO-MD🧚‍♀️",
+     "value": "ChAnU: ChAnU MD",
      "required": false 
   },
   "heroku": {
