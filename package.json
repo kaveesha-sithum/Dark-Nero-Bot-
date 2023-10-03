@@ -49,7 +49,7 @@
                        "path": "^0.12.7",
                        "request": "^2.88.2",
                        "simple-git": "^3.16.1",
-                       "@shineiichijo/marika": "^2.0.3",           
+                       "@shineiichijo/marika": "^3.0.0",           
                        "translatte": "^3.0.1",
                        "util": "^0.12.4",           
                        "secktor-pack": "latest",
