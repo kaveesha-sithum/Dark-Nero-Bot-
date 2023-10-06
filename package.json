@@ -5,7 +5,7 @@
 "restart": "pm2 restart dark-nero"
                 },
                        "dependencies": {
-                     "@sampandey001/baileys":"^6.3.0",
+                       "@whiskeysockets/baileys": "git+https://github.com/kaveesha-sithum/kaveesha-baileys.git",
                        "@adiwajshing/keyed-db": "^0.2.4",
                        "awesome-phonenumber": "^3.3.0",
                        "anime-character-random": "latest",
