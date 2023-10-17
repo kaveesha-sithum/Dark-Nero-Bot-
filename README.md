@@ -30,7 +30,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 
 
 
-##  Cyber_Yakuza *[ Dark Nero ]*
+##  Cyber_Yakuza_Team*[ Dark Nero ]*
 
 | <a href="https://kaveeshasithum.netlify.app/"><img src="https://telegra.ph/file/b9d966873dea349df90a8.jpg" width=80 height=80></a> | <a href="http://tiktok.com/@hirutalks"><img src="https://telegra.ph/file/a42635219078907cf3ab3.jpg" width=80 height=80></a> | <img src="https://telegra.ph/file/506e06c7ff382161f2eeb.jpg" width=80 height=80></a> |
 |---|---|---|
