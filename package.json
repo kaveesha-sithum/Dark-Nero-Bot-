@@ -14,7 +14,7 @@
                        "cheerio": "^1.0.0-rc.10",
                        "crypto-js":"latest",
                        "chalk": "^4.1.2",
-                       "@hapi/boom": "^9.1.4",
+                       "@hapi/boom": "^10.0.1",
                        "util": "^0.12.4",
                        "child_process": "^1.0.2",
                        "discord-mongoose-economy": "^1.2.0",
