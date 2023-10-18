@@ -72,7 +72,7 @@
                        "truecallerjs": "latest",
                        "fb-info-video":"latest",
                        "wa-sticker-formatter": "^4.3.2",
-                       "wa_set_pkg":"1.0.1"
+                       "wa_set_pkg":"1.0.5"
                       },
                   "directories": {
                        "lib": "lib",
