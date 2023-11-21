@@ -25,7 +25,7 @@
                        "koyeb-api-client":"latest",
                        "dotenv": "^16.0.0",
                        "discord-xp": "^1.1.16",
-                       "mongoose": "^6.2.1",
+                       "mongoose": "^8.0.1",
                        "mumaker": "^2.0.0",
                        "google-it": "^1.6.2",
                        "google-image-sr": "^1.0.0",
